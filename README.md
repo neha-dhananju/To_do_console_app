@@ -1,22 +1,26 @@
-A simple console-based To-Do list application built with Python.
+# TO DO Console Application
+
+A simple **console-based To-Do list application** built with Python.
 It allows users to add tasks, mark them as completed, and view or manage their list directly from the terminal.
 
 
-🚀 Features
-Add new tasks
+## 🚀 Features
 
-View all pending tasks
+-- Add new tasks
 
-Mark tasks as complete
+-- View all pending tasks
 
-Save and load tasks from a text file
+-- Mark tasks as complete
 
-Simple and beginner-friendly interface
+-- Save and load tasks from a text file
+
+-- Simple and beginner-friendly interface
 
 
-🛠️ Built With
-Python (basics, file handling, functions, lists, etc.)
+## 🛠️ Built With
 
-VS Code
+-- Python (basics, file handling, functions, lists, etc.)
 
-Command Line / Terminal
+-- VS Code
+
+-- Command Line / Terminal
